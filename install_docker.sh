@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "\e[33mTHIS IS AN AUTOMATED VAGRANT INSTALL SCRIPT FOR UBUNTU ONLY!\e[0m"
 
 #update repositories and install dependencies

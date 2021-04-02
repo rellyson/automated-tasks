@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #you can specify a version for postman here
 POSTMAN_VERSION=8.0.10
 
