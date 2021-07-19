@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #you can specify a version for postman here
-POSTMAN_VERSION=8.0.10
+POSTMAN_VERSION=8.8.0
 
 #download postman from oficial release rep
-curl https://dl.pstmn.io/download/version/8.0.10/linux64 -o Postman-linux-x64-${POSTMAN_VERSION}.tar.gz
+curl https://dl.pstmn.io/download/version/${POSTMAN_VERSION}/linux64 -o Postman-linux-x64-${POSTMAN_VERSION}.tar.gz
 
 #extract and install Postman
 tar -xzf Postman-linux-x64-${POSTMAN_VERSION}.tar.gz
